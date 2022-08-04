@@ -7,3 +7,6 @@ Nimmida Maneewan
 
 ## Email
 nimmida.man@student.mahidol.ac.th
+
+## My hometown
+Suratthani, Thailand
