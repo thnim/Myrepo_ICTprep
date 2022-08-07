@@ -10,3 +10,8 @@ nimmida.man@student.mahidol.ac.th
 
 ## My hometown
 Suratthani, Thailand
+
+## My favourite activities
+* Hiking
+* Playing games
+* Watch Heartrocker's VDOs
